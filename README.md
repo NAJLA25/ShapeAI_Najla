@@ -1,0 +1,2 @@
+# ShapeAI_Najla
+Basic Python and Deep Learning - 7 Days Hands on Bootcamp
